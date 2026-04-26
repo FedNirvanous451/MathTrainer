@@ -1,11 +1,11 @@
 # MathTrainer – Developer Documentation
 
 **MathTrainer** — веб-приложение для тренировки математических навыков.  
-Проект состоит из клиентской части (React + TypeScript) и серверной части (REST API на Go + PostgreSQL). Запуск через Docker Compose.
+Проект состоит из клиентской части (SPA на React + TypeScript) и серверной части (REST API на Go + PostgreSQL). Запуск через Docker Compose.
 
 ---
 
-## 🧰 Технологический стек
+##  Технологический стек
 
 | Компонент       | Технологии |
 |----------------|------------|
@@ -17,7 +17,7 @@
 
 ---
 
-## 📦 Клонирование репозиториев
+##  Клонирование репозиториев
 
 ```bash
 git clone https://github.com/FedNirvanous451/MathTrainer
